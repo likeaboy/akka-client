@@ -1,5 +1,4 @@
 # akka-client
 
-基于akka的轻量级分布式任务调度框架实现
-akka客户端的封装，相当于akka访问akka集群的一个代理
+基于akka分布式组件Akka Remote搭建的demo，扮演客户端角色，用于发送消息给akka集群
 
